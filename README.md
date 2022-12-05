@@ -30,7 +30,7 @@
 ## Connect With Me: 
 <p align="center">
 <a href="https://www.linkedin.com/in/alex-hill-webdeveloper">
-<img src="https://img.shields.io/badge/-alex hill-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-hill-webdeveloper/"/>
+<img src="https://img.shields.io/badge/-@alex hill webdeveloper-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-hill-webdeveloper/"/>
 </a>
 </p>
 <!---
