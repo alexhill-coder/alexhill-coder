@@ -1,12 +1,24 @@
 # Hi, I'm Alex a Web Developer & Coding Hobbyist
+
 - Hi, great to see you here.
 - I’m interested in computers, software & everything inbetween. 
 - I’m currently learning a number of web languages(see below).
 - I’m looking to collaborate on a project to further my industrial development & experience.
 - You can reach me on my social media links below.
 
+## A Quick Summary
 
+A Web Developer equipped with a knowledgeable skill-set in multiple programming languages, hosting, user interfaces, testing and debugging processes. Able to effectively self-manage during independent projects as well as collaborate in a team setting while striving to continuously develop new skills and knowledge in the tech industry. 
 
+## About Me
+
+I've spent the past year updating myself on the latest languages and looking for opportunities to build upon them.
+
+I'm self-motivated and as I prepare myself for working in this field I'm looking to work with others to continue my development. Although most of my experience has been independent I can just as easily work with groups.
+
+I'm currently undertaking a Web Developer Bootcamp to learn new programming languages/skills & I'm more than happy to put in the time and effort to ensure I get the most out of this experience. 
+
+As I'm continously in the process of updating my portfolio please check out my repository when you get the chance, to stay abridged of my work.
 
 ## Languages and Tools:
 
