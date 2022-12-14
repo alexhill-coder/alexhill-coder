@@ -2,7 +2,7 @@
 
 - Hi, great to see you here.
 - I’m interested in computers, software & everything inbetween. 
-- I’m currently learning a number of web languages(see below).
+- I’m currently learning a number of web languages (see below).
 - I’m looking to collaborate on a project to further my industrial development & experience.
 - You can reach me on my social media links below.
 
