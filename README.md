@@ -29,6 +29,7 @@ As I'm continously in the process of updating my portfolio please check out my r
 <img src="https://logospng.org/download/bootstrap/bootstrap-256.png" alt="bootstrap logo" width="64"/>
 <img src="https://logospng.org/download/node-js/logo-node-js-256.png" alt="node.js logo" width="64"/>
 <img src="https://logospng.org/download/react/logo-react-256.png" alt="react.js logo" width="64"/>
+<img src="https://raw.githubusercontent.com/reactjs/redux/master/logo/logo.png" alt="redux logo" width="64"/>
 <img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" alt="python logo" width="64"/>
 <img src="https://logos-download.com/wp-content/uploads/2021/01/Git_Logo-420x420.png" alt="git logo" width="64"/>
 <img src="https://pics.computerbase.de/9/5/7/9/6-208dbee0fac09c86/logo-256.png" alt="vs code logo" width="64"/>
