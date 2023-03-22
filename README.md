@@ -35,7 +35,7 @@ As I'm continously in the process of updating my portfolio please check out my r
 <img src="https://logos-download.com/wp-content/uploads/2021/01/Git_Logo-420x420.png" alt="git logo" width="64" title="Git"/>
 <img src="https://pics.computerbase.de/9/5/7/9/6-208dbee0fac09c86/logo-256.png" alt="vs code logo" width="64" title="VS-Code"/>
 <img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/hyper-3-color-logo.svg" alt="hyper terminal logo" width="64" title="Hyper Terminal"/>
-<img src="https://mryslab.github.io/pseudo-microbit/images/pycharm_logo_300x300.png" alt="pycharm logo" width="64" title="Github"/>
+<img src="https://mryslab.github.io/pseudo-microbit/images/pycharm_logo_300x300.png" alt="pycharm logo" width="64" title="Pycharm"/>
 <img src="https://raw.githubusercontent.com/github/explore/a4691f04ff219c1c2aa02fc61fda41aa43f1459a/topics/jupyter-notebook/jupyter-notebook.png" alt="jupyter notebook logo" width="64" title="Jupyter Notebook"/>
 <img src="https://cienciaprogramada.com.br/wp-content/uploads/2020/08/Anaconda_Logo.png" alt="anaconda logo" height="74" title="Anaconda"/>
 <img src="https://s3.amazonaws.com/media-p.slid.es/uploads/kouceylahadji-1/images/174949/json_logo-555px__1_.png" alt="json logo" height="74" title="JSON"/>
